@@ -1,3 +1,2 @@
 olá! eu chamo joão pedro 
-atualmente estou cursando a faculdade de inteligência artificial na UFG, e tenho aprendido o sistema linux e a linguagem de programação python,
-  além disso, tenho aprendido também sobre sintetização de áudio e escrita além de análise de dados estatística.   
+atualmente estou cursando a faculdade de inteligência artificial na UFG, gosto de analise de dados e treinamento de algoritmo, principalmente por rede neural. 
