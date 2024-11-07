@@ -1,2 +1,3 @@
 olá! eu chamo joão pedro 
-atualmente estou cursando a faculdade de inteligência artificial na UFG, gosto de analise de dados e treinamento de algoritmo, principalmente por rede neural. 
+Sou um apaixonado por tecnologia e inteligência artificial, atualmente estou no 6º período da graduação em Inteligência Artificial na UFG. Adoro explorar novas formas de otimizar processos e criar soluções inovadoras. A programação, para mim, é uma ferramenta poderosa para resolver problemas e automatizar tarefas do dia a dia. 
+Tenho um grande interesse nas áreas de Machine Learning, Visão Computacional, Análise de Dados, MLOps, Modelos de Linguagem de Grande Escala (LLM) e Automação. Estou entusiasmado em explorar como essas tecnologias podem ser integradas para resolver problemas complexos e otimizar processos, contribuindo para inovações significativas no campo da inteligência artificial.
